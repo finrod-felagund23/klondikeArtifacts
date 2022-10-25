@@ -1,2 +1,2 @@
-# klondikeArtifacts
+# KlondikeArtifacts
 Selection of our books
